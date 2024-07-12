@@ -6,8 +6,8 @@
 
 `nvm list-remote`
 
-`nvm install v20.11.0`
+`nvm install v20.15.1`
 
 `nvm list`
 
-`nvm use v20.11.0`
+`nvm use v20.15.1`
